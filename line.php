@@ -8,6 +8,7 @@ function send_LINE($msg){
   $messages = [
         'type' => 'text',
         'text' => $msg
+         $str = “Hello”;
         //'text' => $text
       ];
 
